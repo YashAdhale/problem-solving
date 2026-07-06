@@ -13,5 +13,10 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YashAdhale/problem-solving/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/YashAdhale/problem-solving/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/YashAdhale/problem-solving/tree/master/0367-valid-perfect-square) |
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/YashAdhale/problem-solving/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
