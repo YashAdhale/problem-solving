@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YashAdhale/problem-solving/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashAdhale/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YashAdhale/problem-solving/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/YashAdhale/problem-solving/tree/master/0283-move-zeroes) |
@@ -27,5 +28,10 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YashAdhale/problem-solving/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/YashAdhale/problem-solving/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/YashAdhale/problem-solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
