@@ -6,7 +6,7 @@ var productExceptSelf = function (nums) {
     let ans = []
     let right = 1;
     ans[0] = 1
-    right[nums.length - 1] = 1;
+    right = 1;
     for (let i = 1; i < nums.length; i++) {
         ans[i] = ans[i - 1] * nums[i - 1]
     }
