@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0001-two-sum](https://github.com/YashAdhale/problem-solving/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/YashAdhale/problem-solving/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/YashAdhale/problem-solving/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashAdhale/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YashAdhale/problem-solving/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/YashAdhale/problem-solving/tree/master/0238-product-of-array-except-self) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashAdhale/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/YashAdhale/problem-solving/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
