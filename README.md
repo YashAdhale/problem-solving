@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YashAdhale/problem-solving/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/YashAdhale/problem-solving/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashAdhale/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YashAdhale/problem-solving/tree/master/0162-find-peak-element) |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YashAdhale/problem-solving/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/YashAdhale/problem-solving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
