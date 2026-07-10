@@ -13,6 +13,7 @@ var removeDuplicates = function (num) {
         }
         
     }
+    console.log(num)
 
     return left
 };
