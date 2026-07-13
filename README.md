@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0238-product-of-array-except-self](https://github.com/YashAdhale/problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/YashAdhale/problem-solving/tree/master/0283-move-zeroes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashAdhale/problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/YashAdhale/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashAdhale/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/YashAdhale/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String Matching
 |  |
 | ------- |
