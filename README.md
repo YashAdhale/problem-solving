@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashAdhale/problem-solving/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/YashAdhale/problem-solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/YashAdhale/problem-solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashAdhale/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/YashAdhale/problem-solving/tree/master/0075-sort-colors) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/YashAdhale/problem-solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/YashAdhale/problem-solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashAdhale/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashAdhale/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/YashAdhale/problem-solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/YashAdhale/problem-solving/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/YashAdhale/problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YashAdhale/problem-solving/tree/master/0088-merge-sorted-array) |
