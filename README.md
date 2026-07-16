@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/YashAdhale/problem-solving/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/YashAdhale/problem-solving/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/YashAdhale/problem-solving/tree/master/0367-valid-perfect-square) |
 | [3492-maximum-containers-on-a-ship](https://github.com/YashAdhale/problem-solving/tree/master/3492-maximum-containers-on-a-ship) |
 ## Binary Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0136-single-number](https://github.com/YashAdhale/problem-solving/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashAdhale/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YashAdhale/problem-solving/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/YashAdhale/problem-solving/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/YashAdhale/problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/YashAdhale/problem-solving/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/YashAdhale/problem-solving/tree/master/0643-maximum-average-subarray-i) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0075-sort-colors](https://github.com/YashAdhale/problem-solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YashAdhale/problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/YashAdhale/problem-solving/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/YashAdhale/problem-solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YashAdhale/problem-solving/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
