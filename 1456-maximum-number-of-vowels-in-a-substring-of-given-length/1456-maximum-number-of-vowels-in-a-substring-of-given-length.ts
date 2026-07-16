@@ -14,7 +14,10 @@ function maxVowels(s: string, k: number): number {
     for (let right = k; right < s.length; right++) {
         if (vowels.includes(s[right - k])) current--;
         if (vowels.includes(s[right])) current++;
-        if(current>currentMax)currentMax=current
+        if (current == k) {
+            return current
+        }
+        if (current > currentMax) currentMax = current
     }
     return currentMax
 };
