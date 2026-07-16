@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0162-find-peak-element](https://github.com/YashAdhale/problem-solving/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/YashAdhale/problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/YashAdhale/problem-solving/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/YashAdhale/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashAdhale/problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/YashAdhale/problem-solving/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YashAdhale/problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0136-single-number](https://github.com/YashAdhale/problem-solving/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/YashAdhale/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
