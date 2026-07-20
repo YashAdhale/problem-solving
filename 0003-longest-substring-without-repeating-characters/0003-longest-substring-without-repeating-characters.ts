@@ -12,6 +12,5 @@ function lengthOfLongestSubstring(s: string): number {
         ans= Math.max(right - left + 1, ans)
 
     }
-    console.log(obj)
     return ans
 };
