@@ -77,9 +77,11 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashAdhale/problem-solving/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YashAdhale/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YashAdhale/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashAdhale/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YashAdhale/problem-solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YashAdhale/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YashAdhale/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/YashAdhale/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/YashAdhale/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/YashAdhale/problem-solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
