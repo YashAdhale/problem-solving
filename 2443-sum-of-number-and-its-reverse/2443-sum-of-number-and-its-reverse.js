@@ -15,6 +15,8 @@ var sumOfNumberAndReverse = function(num) {
             return true;
         }
     }
+    
+    
 
     return false;
 };
