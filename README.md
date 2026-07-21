@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0069-sqrtx](https://github.com/YashAdhale/problem-solving/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/YashAdhale/problem-solving/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/YashAdhale/problem-solving/tree/master/0367-valid-perfect-square) |
+| [2119-a-number-after-a-double-reversal](https://github.com/YashAdhale/problem-solving/tree/master/2119-a-number-after-a-double-reversal) |
 | [3492-maximum-containers-on-a-ship](https://github.com/YashAdhale/problem-solving/tree/master/3492-maximum-containers-on-a-ship) |
 ## Binary Search
 |  |
