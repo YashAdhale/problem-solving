@@ -1,7 +1,7 @@
 function findAnagrams(s2: string, s1: string): number[] {
     let k = s1.length
-    let left=0
-    let arr=[]
+    let left = 0
+    let arr = []
     let obj = {}
     let obj2 = {}
     // if (s1.length > s2.length) return false;
@@ -13,21 +13,22 @@ function findAnagrams(s2: string, s1: string): number[] {
         obj2[s2[left]] = obj2[s2[left]] + 1 || 1
     }
 
-    if(deepEqual(obj2, obj)){
+    if (deepEqual(obj2, obj)) {
         arr.push(left)
     }
 
-   
+
 
     for (let right = k; right < s2.length; right++) {
-        
+
         obj2[s2[left]]--
-        left++
-        if(obj2[s2[right-k]]===0){
-            delete obj2[s2[right-k]]
+        if (obj2[s2[left]] === 0) {
+            delete obj2[s2[left]]
         }
-         obj2[s2[right]] = obj2[s2[right]] + 1 || 1
-        
+        left++
+
+        obj2[s2[right]] = obj2[s2[right]] + 1 || 1
+
         if (deepEqual(obj2, obj)) {
             arr.push(left)
         }
