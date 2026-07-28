@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YashAdhale/problem-solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/YashAdhale/problem-solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YashAdhale/problem-solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1929-concatenation-of-array](https://github.com/YashAdhale/problem-solving/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YashAdhale/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/YashAdhale/problem-solving/tree/master/2443-sum-of-number-and-its-reverse) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/YashAdhale/problem-solving/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
