@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashAdhale/problem-solving/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/YashAdhale/problem-solving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/YashAdhale/problem-solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/YashAdhale/problem-solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashAdhale/problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashAdhale/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/YashAdhale/problem-solving/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashAdhale/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/YashAdhale/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashAdhale/problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/YashAdhale/problem-solving/tree/master/1929-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/YashAdhale/problem-solving/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
