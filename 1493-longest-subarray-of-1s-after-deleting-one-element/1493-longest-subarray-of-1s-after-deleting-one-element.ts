@@ -13,11 +13,11 @@ function longestSubarray(nums: number[]): number {
             left++
         }
 
-        max = Math.max(max, right - left + 1)
+        max = Math.max(max, right - left )
 
 
     }
-    return max-1
+    return max
 };
 
 
