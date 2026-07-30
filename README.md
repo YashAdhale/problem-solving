@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0367-valid-perfect-square](https://github.com/YashAdhale/problem-solving/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashAdhale/problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/YashAdhale/problem-solving/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/YashAdhale/problem-solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YashAdhale/problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YashAdhale/problem-solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YashAdhale/problem-solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0643-maximum-average-subarray-i](https://github.com/YashAdhale/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashAdhale/problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/YashAdhale/problem-solving/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/YashAdhale/problem-solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YashAdhale/problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YashAdhale/problem-solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/YashAdhale/problem-solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/YashAdhale/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/YashAdhale/problem-solving/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/YashAdhale/problem-solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0424-longest-repeating-character-replacement](https://github.com/YashAdhale/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashAdhale/problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/YashAdhale/problem-solving/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/YashAdhale/problem-solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/YashAdhale/problem-solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YashAdhale/problem-solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Enumeration
