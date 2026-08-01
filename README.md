@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0075-sort-colors](https://github.com/YashAdhale/problem-solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YashAdhale/problem-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/YashAdhale/problem-solving/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/YashAdhale/problem-solving/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/YashAdhale/problem-solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YashAdhale/problem-solving/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0014-longest-common-prefix](https://github.com/YashAdhale/problem-solving/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashAdhale/problem-solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/YashAdhale/problem-solving/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/YashAdhale/problem-solving/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/YashAdhale/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashAdhale/problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YashAdhale/problem-solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
