@@ -36,8 +36,6 @@ function findAnagrams(s2: string, s1: string): number[] {
 
 
     }
-
-
     return arr
 
 };
