@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/YashAdhale/problem-solving/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/YashAdhale/problem-solving/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/YashAdhale/problem-solving/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/YashAdhale/problem-solving/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/YashAdhale/problem-solving/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1929-concatenation-of-array](https://github.com/YashAdhale/problem-solving/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/YashAdhale/problem-solving/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/YashAdhale/problem-solving/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Two Pointers
 |  |
 | ------- |
