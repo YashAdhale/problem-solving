@@ -5,17 +5,14 @@
  */
 var chunk = function (arr, size) {
     let newA = []
-    let s = size
     let a = []
 
     for (let i = 0; i < arr.length; i++) {
         a.push(arr[i])
-        s--
 
-        if (s === 0) {
+        if (a.length === size) {
             newA.push(a)
-            s = size
-             a = []
+            a = []
         }
     }
     if(a.length>0){
