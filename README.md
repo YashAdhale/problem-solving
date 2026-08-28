@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashAdhale/problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/YashAdhale/problem-solving/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/YashAdhale/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YashAdhale/problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/YashAdhale/problem-solving/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashAdhale/problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/YashAdhale/problem-solving/tree/master/0875-koko-eating-bananas) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0209-minimum-size-subarray-sum](https://github.com/YashAdhale/problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/YashAdhale/problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/YashAdhale/problem-solving/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YashAdhale/problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/YashAdhale/problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashAdhale/problem-solving/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/YashAdhale/problem-solving/tree/master/0875-koko-eating-bananas) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0125-valid-palindrome](https://github.com/YashAdhale/problem-solving/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/YashAdhale/problem-solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YashAdhale/problem-solving/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YashAdhale/problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0018-4sum](https://github.com/YashAdhale/problem-solving/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/YashAdhale/problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YashAdhale/problem-solving/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YashAdhale/problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/YashAdhale/problem-solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashAdhale/problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/YashAdhale/problem-solving/tree/master/0076-minimum-window-substring) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/YashAdhale/problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/YashAdhale/problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/YashAdhale/problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
